@@ -67,7 +67,8 @@ backend/
 
 4. **Run Locally**:
 
-   ```node server.js
+   ```bash
+   node server.js
 
    ```
 

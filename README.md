@@ -62,6 +62,7 @@ backend/
      ```env
      API_BASE_URL=http://localhost:3001
      JWT_SECRET=4270fd848daceb84e33733b14b25f489b1ad964cb76745f3e433c429555ad50f
+     FRONTEND_API_BASE_URL=http://localhost:3000
      ```
 
 4. **Run Locally**:
